@@ -1,4 +1,4 @@
-#Top 10 Music Recommender – Machine Learning Project
+# Top 10 Music Recommender – Machine Learning Project
 This project is a Music Recommendation System that suggests the top 10 songs based on user preferences using Cosine Similarity in Machine Learning. It analyzes song features and user listening history to recommend tracks that are most similar to the given input.
 
 Key Features
